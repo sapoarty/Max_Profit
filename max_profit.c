@@ -1,3 +1,4 @@
+int maxProfit(int* prices, int pricesSize)
 {
     int n;
     int sum;
